@@ -1,0 +1,63 @@
+body{
+	background-image: url("http://data3.whicdn.com/images/35590469/vintage-beautiful-wildflower-wallpaper_1990x1440_62630_large.jpg");
+	background-size: 100%;
+}
+div{
+	height: 250px;
+	width: 250px;
+}
+hr{
+	background-color: black;
+	height: 3px;
+	margin-left: 0%;
+	margin-right: 90%;
+}
+p{
+	color: white;
+	padding-left: 110px;
+	padding-top: 200px;
+	font-family: ;
+}
+
+.coder1{
+	background-image: url("C:/Users/Nayeli/Desktop/laboratoria/coders/img/profile-1.png");
+	background-size: 100%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.coder2{
+	background-image: url("C:/Users/Nayeli/Desktop/laboratoria/coders/img/profile-2.png");
+	background-size: 100%;
+	position: absolute;
+	left: 300px;
+}
+.coder3{
+	background-image: url("C:/Users/Nayeli/Desktop/laboratoria/coders/img/profile-3.png");
+	background-size: 100%;
+	position: absolute;
+	left: 600px;
+}
+.coder4{
+	background-image: url("C:/Users/Nayeli/Desktop/laboratoria/coders/img/profile-4.png");
+	background-size: 100%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.coder5{
+	background-image: url("C:/Users/Nayeli/Desktop/laboratoria/coders/img/profile-5.png");
+	background-size: 100%;
+	position: absolute;
+	left: 300px;
+}
+.coder6{
+	background-image: url("C:/Users/Nayeli/Desktop/laboratoria/coders/img/profile-6.png");
+	background-size: 100%;
+	position: absolute;
+	left: 600px;
+}
+
+.brillo{
+	-webkit-filter:brightness(55%);
+	filter:brightness(55%);
+}
